@@ -11,7 +11,7 @@
       "version": 1,
       "sendCount": 1,
       "approved": true,
-      "active": true,
+      "active": false,
       "sendsLeft": 4
     }
   }

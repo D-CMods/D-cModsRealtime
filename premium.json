@@ -1,3 +1,12 @@
 {
-  "users": {}
+  "users": {
+    "a1e4c8030399cc1d": {
+      "links": [],
+      "version": 0,
+      "sendCount": 0,
+      "approved": true,
+      "active": false,
+      "sendsLeft": 5
+    }
+  }
 }

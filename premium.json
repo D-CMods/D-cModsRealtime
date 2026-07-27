@@ -1,8 +1,12 @@
 {
-    "users": {
-        "a1e4c8030399cc1d": {
-            "approved": true,
-            "downloaded": false
-        }
+  "users": {
+    "a1e4c8030399cc1d": {
+      "approved": true,
+      "downloaded": false,
+      "download": true,
+      "update": true,
+      "file": "2K UPDATED FACES.ROS",
+      "version": 1785150624082
     }
+  }
 }

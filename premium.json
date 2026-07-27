@@ -1,38 +1,3 @@
 {
-  "users": {
-    "a1e4c8030399cc1d": {
-      "links": [
-        {
-          "title": "NBA 2K27",
-          "url": "https:\/\/www.mediafire.com\/file\/qo3ztgk1pll8hym\/NBA_2K27_12_SCOREBOARD.apk\/file",
-          "time": 1785146194527
-        },
-        {
-          "title": "12",
-          "url": "https:\/\/www.mediafire.com\/file\/qo3ztgk1pll8hym\/NBA_2K27_12_SCOREBOARD.apk\/file",
-          "time": 1785146543796
-        },
-        {
-          "title": "https:\/\/www.mediafire.com\/file\/qo3ztgk1pll8hym\/NBA_2K27_12_SCOREBOARD.apk\/file",
-          "url": "https:\/\/www.mediafire.com\/file\/qo3ztgk1pll8hym\/NBA_2K27_12_SCOREBOARD.apk\/file",
-          "time": 1785146557377
-        },
-        {
-          "title": "h",
-          "url": "https:\/\/www.mediafire.com\/file\/qo3ztgk1pll8hym\/NBA_2K27_12_SCOREBOARD.apk\/file",
-          "time": 1785146582240
-        },
-        {
-          "title": "12",
-          "url": "https:\/\/www.mediafire.com\/file\/qo3ztgk1pll8hym\/NBA_2K27_12_SCOREBOARD.apk\/file",
-          "time": 1785146593180
-        }
-      ],
-      "version": 5,
-      "sendCount": 5,
-      "approved": true,
-      "active": true,
-      "sendsLeft": 0
-    }
-  }
+    "users": {}
 }
